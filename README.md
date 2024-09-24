@@ -31,9 +31,6 @@
   <a href="https://instagram.com/_mr.ayushh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr.ayushh" height="40" width="40" />
   </a>
-  <a href="https://t.me/mrayushyt" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Telegram_logo.svg" alt="@mrayushyt" height="40" width="40" />
-  </a>
 </p>
 
 ---
