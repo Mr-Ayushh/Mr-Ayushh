@@ -25,9 +25,9 @@
   <a href="https://linkedin.com/in/mrayushh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrayushh" height="40" width="40" />
   </a>
-  <a href="[https://stackoverflow.com/users/27447173](https://stackoverflow.com/users/27447173/ayush-tiwari)" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:27447173" height="40" width="40" />
-  </a>
+  <a href="https://stackoverflow.com/users/27447173" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:27447173" height="40" width="40" />
+</a>
   <a href="https://instagram.com/_mr.ayushh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr.ayushh" height="40" width="40" />
   </a>
