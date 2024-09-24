@@ -1,7 +1,9 @@
-<h1 align="center">👋🏻 Hi there, I'm Ayush Tiwari 👨🏻‍💻</h1>
-<h3 align="center">A dedicated Flutter Developer and Aspiring Data Scientist. 
+<h1 align="center" style="color: #4CAF50; text-shadow: 2px 2px 5px #000;">👋🏻 Hi there, I'm Ayush Tiwari 👨🏻‍💻</h1>
+<h3 align="center" style="color: #FF5722;">
+   A dedicated Flutter Developer and Aspiring Data Scientist. 
    Coding is more than just a profession for me; it fuels my creativity and analytical thinking. 
-   I also enjoy freelancing in my spare time to broaden my skills.</h3>
+   I also enjoy freelancing in my spare time to broaden my skills.
+</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mr-ayushh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
@@ -14,6 +16,7 @@
 - Exploring advanced Data Science
 
 ---
+
 ### 📫 Let's Connect
 <p align="center">
   <a href="https://twitter.com/_mrayush" target="_blank">
@@ -62,10 +65,11 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> 
   </a>
 </p>
-<p align="center">
+<p align="center" style="color: #2196F3;">
   <strong>Data Science</strong>: Machine Learning, Data Analysis, Power BI
 </p>
 
+---
 
 ### 🎵 Hobbies
 - **Music**: Always tuned in to the latest hits, from 90s classics to 2000s favorites, including Hip Hop and Indian music genres (IHH, DHH) 🎶💿
@@ -105,4 +109,6 @@ I believe in continuous learning and always seek ways to improve and innovate in
 
 ---
 
-Feel free to explore my projects and connect with me!
+<p align="center" style="color: #FF5722; animation: glow 1.5s infinite alternate;">
+  <strong>Feel free to explore my projects and connect with me!</strong>
+</p>
