@@ -19,13 +19,13 @@
 
 ### 📫 Let's Connect
 <p align="center">
-  <a href="https://twitter.com/_mrayush" target="_blank">
+  <a href="https://twitter.com/_mrayushh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mrayush" height="40" width="40" />
   </a>
   <a href="https://linkedin.com/in/mrayushh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrayushh" height="40" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/user:27447173" target="_blank">
+  <a href="[https://stackoverflow.com/users/user:27447173](https://stackoverflow.com/users/27447173/ayush-tiwari)" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:27447173" height="40" width="40" />
   </a>
   <a href="https://instagram.com/_mr.ayushh" target="_blank">
@@ -66,7 +66,7 @@
   </a>
 </p>
 <p align="center" style="color: #2196F3;">
-  <strong>Data Science</strong>: Machine Learning, Data Analysis, Power BI
+  <u><strong>Data Science</strong>: Machine Learning, Data Analysis, Power BI</u>
 </p>
 
 ---
