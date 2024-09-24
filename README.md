@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #4CAF50; text-shadow: 2px 2px 5px #000;">👋🏻 Hi there, I'm Ayush Tiwari 👨🏻‍💻</h1>
+<h1 align="center" style="color: #00FF00; text-shadow: 2px 2px 5px #000;">👋🏻 Hi there, Ayush Tiwari is Here 👨🏻‍💻</h1>
 <h3 align="center" style="color: #FF5722;">
    A dedicated Flutter Developer and Aspiring Data Scientist. 
    Coding is more than just a profession for me; it fuels my creativity and analytical thinking. 
@@ -26,10 +26,13 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrayushh" height="40" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/27447173" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:27447173" height="40" width="40" />
-</a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:27447173" height="40" width="40" />
+  </a>
   <a href="https://instagram.com/_mr.ayushh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr.ayushh" height="40" width="40" />
+  </a>
+  <a href="https://t.me/mrayushyt" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Telegram_logo.svg" alt="@mrayushyt" height="40" width="40" />
   </a>
 </p>
 
