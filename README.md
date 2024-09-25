@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #00FF00; text-shadow: 2px 2px 5px #000;">👋🏻 Hi there, Ayush Tiwari is Here 👨🏻‍💻</h1>
+<h1 align="center" style="color: #00FF00; text-shadow: 2px 2px 5px #000;">👋🏻 Hey there, Ayush Tiwari is Here 👨🏻‍💻</h1>
 <h3 align="center" style="color: #FF5722;">
    A dedicated Flutter Developer and Aspiring Data Scientist. 
    Coding is more than just a profession for me; it fuels my creativity and analytical thinking. 
@@ -64,6 +64,9 @@
   </a>
    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" width="60" height="60"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="60" height="60"/> 
