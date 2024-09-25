@@ -1,8 +1,10 @@
+![MasterHead](https://github.com/Khuza1ma/Khuza1ma/blob/main/banner.gif)
 <h1 align="center" style="color: #00FF00; text-shadow: 2px 2px 5px #000;">👋🏻 Hey there, Ayush Tiwari is Here 👨🏻‍💻</h1>
 <h3 align="center" style="color: #FF5722;">
    A dedicated Flutter Developer and Aspiring Data Scientist. 
    Coding is more than just a profession for me; it fuels my creativity and analytical thinking. 
-   I also enjoy freelancing in my spare time to broaden my skills.
+   I also enjoy freelancing in my spare time to broaden my skills. <br>
+    Making a significant impact in the tech community
 </h3>
 
 <p align="center"> 
@@ -10,14 +12,14 @@
 </p>
 
 ---
-
 ### 🌱 Currently Learning
-- Deepening my knowledge of Flutter & Dart
+- I am enthusiastically dedicating myself to mastering **Flutter**, <br>
+   a versatile & powerful framework to create dynamic,coss-platform applications
 - Exploring advanced Data Science
 
 ---
 
-### 📫 Let's Connect
+### 🌐 Socials 
 <p align="center">
      </a>
   <a href="https://stackoverflow.com/users/27447173" target="_blank">
@@ -36,7 +38,8 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 💻Tech Stack🛠️
+<br>
 <p align="center"> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/> 
@@ -75,6 +78,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> 
   </a>
 </p>
+<br>
 <p align="center" style="color: #2196F3;">
   <u><strong>Data Science</strong>: Machine Learning, Data Analysis, Power BI</u>
 </p>
@@ -82,12 +86,7 @@
 ---
 
 ### 🎵 Hobbies
-- **Music**: Always tuned in to the latest hits, from 90s classics to 2000s favorites, including Hip Hop and Indian music genres (IHH, DHH) 🎶💿
-- **Coffee**: My essential fuel for coding sessions ☕
-- **Traveling**: Exploring new cultures and places ✈️
-- **Reading & Movies**: Avid reader and movie buff 🎬
-- **Gaming**: Enjoying various video games, enhancing both strategy and teamwork skills 🎮
-- **Working Out**: Committed to maintaining a balanced lifestyle to fuel creativity and problem-solving 💪🏻🏋🏻
+ **Music**:💿  |  **Coffee**☕  |   **Traveling**✈️  |   **Movies**🎬  |   **Gaming**🎮  |   **Working Out**🏋🏻   |  **Browsing Internet🌐**
 
 ---
 
