@@ -1,25 +1,28 @@
 ![MasterHead](https://github.com/Khuza1ma/Khuza1ma/blob/main/banner.gif)
-<h1 align="center" style="color: #00FF00; text-shadow: 2px 2px 5px #000;">👋🏻 Hey there, Ayush Tiwari is Here 👨🏻‍💻</h1>
+<h1 align="center" style="color: #00FF00; text-shadow: 2px 2px 5px #000;">👋🏻 Hey there, Ayushh is Here 👨🏻‍💻</h1>
 <h3 align="center" style="color: #FF5722;">
-   A dedicated Flutter Developer and Aspiring Data Scientist. 
+   A dedicated Flutter Developer & Aspiring Data Scientist. 
    Coding is more than just a profession for me; it fuels my creativity and analytical thinking. 
    I also enjoy freelancing in my spare time to broaden my skills. <br>
     Making a significant impact in the tech community
 </h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mr-ayushh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
+  <img src="https://komarev.com/ghpvc/?username=mr-ayushh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+      <img align="right" alt="Coding" width="400" src="https://github.com/Khuza1ma/Khuza1ma/blob/main/main.gif">
+
+
 
 ---
-### 🌱 Currently Learning
+
+### 🌱 Currently Learning 🚀
 - I am enthusiastically dedicating myself to mastering **Flutter**, <br>
    a versatile & powerful framework to create dynamic,coss-platform applications
 - Exploring advanced Data Science
 
 ---
 
-### 🌐 Socials 
+### 🌐 Socials 🤳🏻
 <p align="center">
      </a>
   <a href="https://stackoverflow.com/users/27447173" target="_blank">
@@ -38,7 +41,7 @@
 
 ---
 
-### 💻Tech Stack🛠️
+### 💻 Tech Stack 🛠️
 <br>
 <p align="center"> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
@@ -85,17 +88,17 @@
 
 ---
 
-### 🎵 Hobbies
- **Music**:💿  |  **Coffee**☕  |   **Traveling**✈️  |   **Movies**🎬  |   **Gaming**🎮  |   **Working Out**🏋🏻   |  **Browsing Internet🌐**
+### 😌 Hobbies 🥰
+ **Music**:💿  |  **Coffee**☕  |   **Traveling**✈️  |   **Movies**🎬  |   **Gaming**🎮  |   **Working Out**🏋🏻   |  **Browsing Internet🌐**  |  **Exploring Technologies👨🏻‍💻**
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ Fun Fact 😗
 I believe in continuous learning and always seek ways to improve and innovate in my projects.
 
 ---
 
-### 🎯 Career Objectives
+### 🎯 Career Objectives 🎢
 - **Short Term**: Gain hands-on experience in Flutter development and work on real-world projects.
 - **Long Term**: Establish a successful career in the data science field, leveraging my analytical and programming skills.
 
@@ -109,7 +112,7 @@ I believe in continuous learning and always seek ways to improve and innovate in
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mr-ayushh&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ayushh&theme=radical" alt="GitHub Streak Stats" />
@@ -119,7 +122,7 @@ I believe in continuous learning and always seek ways to improve and innovate in
 ---
 
 <p align="center" style="color: #FF5722; animation: glow 1.5s infinite alternate;">
-  <strong>Feel free to explore my projects and connect with me!</strong>
+  <strong>Feel free to explore my projects and connect with me..!😉</strong>
 </p>
 
 <p align="center">
