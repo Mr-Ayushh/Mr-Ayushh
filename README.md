@@ -12,7 +12,6 @@
       <img align="right" alt="Coding" width="400" src="https://github.com/Khuza1ma/Khuza1ma/blob/main/main.gif">
 
 
-
 ---
 
 ### 🌱 Currently Learning 🚀
