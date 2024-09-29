@@ -16,8 +16,8 @@
 
 ### 🌱 Currently Learning 🚀
 - I am enthusiastically dedicating myself to mastering **Flutter**, <br>
-   a versatile & powerful framework to create dynamic,coss-platform applications
-- Exploring advanced Data Science
+   a versatile & powerful framework to create dynamic,cross-platform applications
+- Exploring advanced Data Science 
 
 ---
 
