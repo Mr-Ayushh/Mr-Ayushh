@@ -12,7 +12,7 @@
 
 <h3 align="center" style="color: #FF5722;">
    Coding is more than just a profession for me; it fuels my creativity & analytical thinking.<br> 
-   I also enjoy freelancing in my spare time to broaden my skills<br>
+   I also enjoy freelancing in my spare time to broaden my skills.<br>
    Making a significant impact in the tech community.
 </h3>
 
@@ -24,9 +24,8 @@
 ---
 
 ### 🌱 Currently Learning 🚀
-- I am enthusiastically dedicating myself to mastering **Flutter**, <br>
-  a versatile & powerful framework to create dynamic, cross-platform applications.
-- Exploring advanced Data Science techniques.
+- I'm enthusiastically dedicating myself to mastering **Flutter**,<br> A versatile & powerful framework to create dynamic, cross-platform applications.
+- Exploring advanced Data Science.
 
 ---
 
