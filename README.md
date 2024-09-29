@@ -1,94 +1,71 @@
 ![MasterHead](https://github.com/Khuza1ma/Khuza1ma/blob/main/banner.gif)
-<h1 align="center" style="color: #00FF00; text-shadow: 2px 2px 5px #000;">👋🏻 Hey there, Ayushh is Here 👨🏻‍💻</h1>
+<h1 align="center" style="color: #00FF00; text-shadow: 2px 2px 5px #000;">  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fa3e3e&height=120&section=header"/> 
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&duration=1500&pause=500&color=FA3E3E&center=true&vCenter=true&width=1200&height=100&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hey+folks%2C+Ayushh+is+Here;A+dedicated+Flutter+Developer+%26+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;An+Aspiring+Data+Scientist...%21;From+Mumbai+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" style="animation: reverse 2s ease-in-out alternate;" />
+  </a>
+</div>
+
+</h1>
+
 <h3 align="center" style="color: #FF5722;">
-   A dedicated Flutter Developer & Aspiring Data Scientist. 
-   Coding is more than just a profession for me; it fuels my creativity and analytical thinking. 
-   I also enjoy freelancing in my spare time to broaden my skills. <br>
-    Making a significant impact in the tech community
+   Coding is more than just a profession for me; it fuels my creativity & analytical thinking.<br> 
+   I also enjoy freelancing in my spare time to broaden my skills<br>
+   Making a significant impact in the tech community.
 </h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mr-ayushh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-      <img align="right" alt="Coding" width="400" src="https://github.com/Khuza1ma/Khuza1ma/blob/main/main.gif">
-
+  <img src="https://komarev.com/ghpvc/?username=mr-ayushh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</p>  
+<img align="right" alt="Coding" width="400" src="https://github.com/Khuza1ma/Khuza1ma/blob/main/main.gif"/>
 
 ---
 
 ### 🌱 Currently Learning 🚀
 - I am enthusiastically dedicating myself to mastering **Flutter**, <br>
-   a versatile & powerful framework to create dynamic,cross-platform applications
-- Exploring advanced Data Science 
+  a versatile & powerful framework to create dynamic, cross-platform applications.
+- Exploring advanced Data Science techniques.
 
 ---
 
 ### 🌐 Socials 🤳🏻
 <p align="center">
-     </a>
+     <a href="https://t.me/mrayushyt" target="_blank">
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/telegram.svg" alt="Telegram" height="40" width="40" />
+  </a>
   <a href="https://stackoverflow.com/users/27447173" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:27447173" height="40" width="40" />
-  </a>
-  <a href="https://instagram.com/_mr.ayushh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr.ayushh" height="40" width="40" />
-  </a>
-
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="mrayushh" height="40" width="40" />
   </a>
   <a href="https://linkedin.com/in/mrayushh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrayushh" height="40" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="mrayushh" height="40" width="40" />
+  </a>
+    <a href="https://instagram.com/_mr.ayushh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="mrayushh" height="40" width="40" />
+  </a>
   <a href="https://twitter.com/_mrayushh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mrayush" height="40" width="40" />
+    <img src="https://skillicons.dev/icons?i=twitter" alt="mrayushh" height="40" width="40" />
+  </a>     
+
 </p>
 
 ---
 
-### 💻 Tech Stack 🛠️
-<br>
-<p align="center"> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/> 
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/> 
-  </a>
-     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> 
-  </a>
-   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> 
-  </a>
-     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
-  </a>
-   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" width="60" height="60"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="60" height="60"/> 
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> 
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Tech Stack 🛠️
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,flutter,dart,firebase,figma,python,html,css,windows,linux,androidstudio,vscode,powershell,vercel,gcp,tailwindcss,kotlin,&perline=9" />
   </a>
 </p>
-<br>
 <p align="center" style="color: #2196F3;">
-  <u><strong>Data Science</strong>: Machine Learning, Data Analysis, Power BI</u>
+  <u><strong>Data Science:</strong> Machine Learning, Data Analysis, Power BI</u>
 </p>
 
 ---
 
 ### 😌 Hobbies 🥰
- **Music**:💿  |  **Coffee**☕  |   **Traveling**✈️  |   **Movies**🎬  |   **Gaming**🎮  |   **Working Out**🏋🏻   |  **Browsing Internet🌐**  |  **Exploring Technologies👨🏻‍💻**
+**Music** 💿  |  **Coffee** ☕  |   **Traveling** ✈️  |   **Movies** 🎬  |   **Gaming** 🎮  |   **Working Out** 🏋🏻   |  **Browsing Internet** 🌐  |  **Exploring Technologies** 👨🏻‍💻
 
 ---
 
@@ -105,7 +82,7 @@ I believe in continuous learning and always seek ways to improve and innovate in
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mr-ayushh" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mr-ayushh&layout=compact&theme=dark" alt="GitHub Trophy" />
   </a> 
 </p>
 
@@ -114,21 +91,28 @@ I believe in continuous learning and always seek ways to improve and innovate in
 ### 📊 Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mr-ayushh&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ayushh&theme=radical" alt="GitHub Streak Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ayushh&theme=radical" alt="GitHub Streak Stats" height="180px" />
 </p>
 
-<p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ayushh&layout=compact&theme=radical" alt="Top Languages" height="180px" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ayushh&layout=compact&theme=dark" alt="Top Languages" height="180px" />
 </p>
 
 ---
-
-<p align="center" style="color: #FF5722; animation: glow 1.5s infinite alternate;">
-  <strong>Feel free to explore my projects and connect with me..!😉</strong>
+<div align="center">
+<p align="center" style="color: #FF5722;">
+  <strong>Feel free to explore my projects & connect with me..!😉</strong>
 </p>
-
+<br>
 <p align="center">
   <a href="https://www.buymeacoffee.com/mrayushh" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="217" height="60" />
   </a>
 </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&duration=1500&pause=500&color=FA3E3E&center=true&vCenter=true&width=1200&height=100&lines=Thanks+for+visiting" style="animation: reverse 2s ease-in-out alternate;" />
+  </a>
+    <a href="#">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fa3e3e&height=120&section=footer"/>
+  </a>
+</div>
