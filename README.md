@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&duration=1500&pause=500&color=FA3E3E&center=true&vCenter=true&width=1200&height=100&lines=Hey+folks%2C+Ayushh+is+Here+👋🏻;👨🏻‍💻+A+dedicated+Flutter+Developer+%26;An+Aspiring+Data+Scientist...%21;From+Mumbai+🇮🇳" style="animation: reverse 2s ease-in-out alternate;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&duration=1500&pause=500&color=FA3E3E&center=true&vCenter=true&width=1200&height=100&lines=Hey+folks%2C+Ayushh+is+Here+👋🏻;👨🏻‍💻+A+dedicated+Flutter+Developer+%26;An+Aspiring+Data+Scientist...%21;From+Mumbai+🇮🇳"  width="auto" style="animation: reverse 2s ease-in-out alternate;" />
   </a>
 </div>
 
@@ -94,7 +94,7 @@ I believe in continuous learning and always seek ways to improve and innovate in
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ayushh&layout=compact&theme=dark" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ayushh&layout=compact&theme=transparent&langs_count=8" alt="Top Languages" height="180px" />
 </p>
 
 ---
