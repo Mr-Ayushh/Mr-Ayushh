@@ -115,3 +115,7 @@ I believe in continuous learning and always seek ways to improve and innovate in
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fa3e3e&height=120&section=footer"/>
   </a>
 </div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
+</p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
