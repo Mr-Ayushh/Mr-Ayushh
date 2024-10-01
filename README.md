@@ -8,7 +8,7 @@
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&duration=1500&pause=500&color=FA3E3E&center=true&vCenter=true&width=1200&height=100&lines=Hey+folks%2C+Ayushh+is+Here+👋🏻;👨🏻‍💻+A+dedicated+Flutter+Developer+%26;An+Aspiring+Data+Scientist...%21;From+Mumbai🇮🇳"  width="auto" style="animation: reverse 2s ease-in-out alternate;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&duration=1500&pause=500&color=FA3E3E&center=true&vCenter=true&width=1200&lines=Hey+folks%2C+Ayushh+is+Here+👋🏻;👨🏻‍💻+A+dedicated+Flutter+Developer+%26;An+Aspiring+Data+Scientist...%21;From+Mumbai+🇮🇳"  width="auto" style="animation: reverse 2s ease-in-out alternate;" />
   </a>
 </div>
 
