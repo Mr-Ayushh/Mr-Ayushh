@@ -1,5 +1,5 @@
 <!-- Master Head -->
-<img src="https://github.com/Khuza1ma/Khuza1ma/blob/main/banner.gif" alt="MasterHead" height="180" width="100%" />
+<img src="https://github.com/Khuza1ma/Khuza1ma/blob/main/banner.gif" alt="MasterHead" />
 
 <!-- Heading with Typing Effect -->
 <h1 align="center" style="color: #00FF00; text-shadow: 2px 2px 5px #000;">  
@@ -61,6 +61,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,flutter,dart,firebase,figma,python,html,css,windows,linux,androidstudio,vscode,powershell,vercel,gcp,tailwindcss,kotlin&perline=9" alt="Tech Stack Icons" style="margin-bottom: 10px;" />
   </a>
 </div>
+<br>
 <p align="center" style="color: #2196F3; font-size: 18px; margin-top: 10px;">
   <u><strong>Data Science-> </strong> Machine Learning, Data Analysis, Power BI</u>
 </p>
