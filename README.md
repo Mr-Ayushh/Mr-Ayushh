@@ -80,7 +80,7 @@ I believe in continuous learning and always seek ways to improve and innovate in
 ---
 
 ### 🎯 Career Objectives 🎢
-- **Short Term**: Gain hands-on experience in Flutter development and work on real-world projects.
+- **Short Term**: Gain hands-on experience in Flutter development through real-world projects & meaningful contributions.
 - **Long Term**: Establish a successful career in the data science field, leveraging my analytical and programming skills.
 
 ---
