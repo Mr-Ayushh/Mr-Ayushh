@@ -1,6 +1,7 @@
 <!-- Master Head -->
 <img src="https://github.com/Khuza1ma/Khuza1ma/blob/main/banner.gif" alt="MasterHead" />
 
+
 <!-- Heading with Typing Effect -->
 <h1 align="center" style="color: #00FF00; text-shadow: 2px 2px 5px #000;">  
   <!-- Capsule Header Image -->
