@@ -12,6 +12,7 @@
   </a>
 </div>
 
+
 <!-- Introduction Section -->
 <h3 align="center" style="color: #FF5722;">
    Coding is more than just a profession for me; it fuels my creativity & analytical thinking.<br> 
