@@ -60,7 +60,7 @@
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" alt="Tech Stack GIF"> Tech Stack 🛠️
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,flutter,dart,firebase,figma,python,html,css,windows,linux,androidstudio,vscode,powershell,vercel,gcp,tailwindcss,kotlin&perline=9" alt="Tech Stack Icons" style="margin-bottom: 10px;" />
+    <img src="https://skillicons.dev/icons?i=git,github,flutter,dart,firebase,figma,python,html,css,kotlin,windows,linux,androidstudio,vscode,powershell,vercel,gcp,tailwindcss,docker,postman&perline=10" alt="Tech Stack Icons" style="margin-bottom: 10px;" />
   </a>
 </div>
 <br>
