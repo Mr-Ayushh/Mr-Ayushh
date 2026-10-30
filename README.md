@@ -31,9 +31,9 @@
 
 ---
 
-### 🌱 Currently Learning 🚀
+### 🌱Exploring & Learning 🚀
 - I'm enthusiastically dedicating myself to mastering **Flutter**,<br> A versatile & powerful framework to create dynamic, cross-platform applications.
-- Exploring advanced Data Science.
+- Exploring Cyber Security & Data Science.
 
 ---
 
@@ -48,7 +48,7 @@
   <a href="https://linkedin.com/in/mrayushh" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="mrayushh" height="40" width="40" />
   </a>
-  <a href="https://instagram.com/_mr.ayushh" target="_blank">
+  <a href="https://instagram.com/mrayushfit" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="mrayushh" height="40" width="40" />
   </a>
   <a href="https://twitter.com/_mrayushh" target="_blank">
